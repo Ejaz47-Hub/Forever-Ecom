@@ -1,6 +1,7 @@
 import { createContext } from "react";
 import { products } from "../assets/assets";
 import React from "react";
+import BestSeller from "../Components/BestSeller";
 
 // eslint-disable-next-line react-refresh/only-export-components
 export const ShopContext = createContext();
